@@ -124,3 +124,13 @@ def validate_GeoER(model, valid_x_tensor, valid_coord_tensor, valid_n, valid_y_t
   print("f1-Score:",f1)
   
   return f1
+
+
+
+
+
+
+
+
+
+
